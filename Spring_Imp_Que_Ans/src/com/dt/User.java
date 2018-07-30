@@ -1,4 +1,4 @@
-package RESTtfulwebservices.user;
+package com.dt;
 
 import java.util.Date;
 import java.util.List;
@@ -9,8 +9,6 @@ import javax.persistence.Id;
 import javax.persistence.OneToMany;
 import javax.validation.constraints.Past;
 import javax.validation.constraints.Size;
-
-import com.dt.Post;
 
 import io.swagger.annotations.ApiModel;
 import io.swagger.annotations.ApiModelProperty;

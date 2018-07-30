@@ -1,4 +1,4 @@
-package restfulwebservices.versioning;
+package com.dt;
 
 public class PersonV1 {
 	private String name;

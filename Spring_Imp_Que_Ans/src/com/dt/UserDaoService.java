@@ -7,8 +7,6 @@ import java.util.List;
 
 import org.springframework.stereotype.Component;
 
-import RESTtfulwebservices.user.User;
-
 @Component
 public class UserDaoService {
 	

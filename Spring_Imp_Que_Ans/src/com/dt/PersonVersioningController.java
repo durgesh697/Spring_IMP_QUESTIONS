@@ -1,4 +1,4 @@
-package restfulwebservices.versioning;
+package com.dt;
 
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.RestController;
